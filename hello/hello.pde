@@ -1,4 +1,4 @@
 void setup()
 {
-  print("Sup man.");
+  print("Sup man. Hello!");
 }
